@@ -32,8 +32,6 @@
 
 ## Introducción
 
->  Una introducción (Creo que no es necesario el texto aquí, pero si en los subindices)
-
 ### Propósito
 
 >  Un propósito
@@ -45,8 +43,8 @@
 ### Documentos de referencia
 
 >  Documentos de referencia
->  Utilice esta vaina para lo de microservicios https://microservices.io/ 
->  También esta https://www.redhat.com/es/topics/microservices/what-are-microservices
+>  Utilice este enlace para saber más sobre microservicios https://microservices.io/ 
+>  Opción alterna https://www.redhat.com/es/topics/microservices/what-are-microservices
 
 ---
 
@@ -54,11 +52,9 @@
 
 ### Descripción de la arquitectura utilizada (Capas)
 
-> Descripción de la arquitectura
+La arquitectura basada en capas se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de separación de responsabilidades. El rol indica el modo y tipo de interacción con otras capas, y la responsabilidad indica la funcionalidad que está siendo desarrollada.
 
 ### Definición teórica de Microservicios
-
-> Definición de los Microservicios
 
 Los microservicios se tratan de un estilo arquitectónico mediante el cual una aplicación se estructura en función a una colección de **servicios** que deben ser:
 * Altamente mantenibles y probables
@@ -81,7 +77,7 @@ Cada función se denomina servicio y se puede diseñar e implementar de forma in
 
 ### Diagrama de arquitectura con descripción
 
-> Diagrama de la arquitectura con sus respectivas descripción
+Este diagrama puede encontrarse en la carpeta del proyecto, la cual se encuenta enlazada en el Plan de Mantenimiento.
 
 ### Diagrama de secuencia para los procesos descritos en la descripción de la App 1 y la App 2
 
@@ -101,9 +97,9 @@ Para una descripción más precisa de las entidades involucradas en la base de d
 
 ---
 
-## Documentación de la API (Aquí le entra el POSTMAN)
+## Documentación de la API
 
-> Aquí metemos un buen y rico POSTMAN (Si es posible)
+**Postman** es una herramienta que nos permite crear peticiones sobre APIs creando un cliente por nosotros para evitar la creación de los mismos y poder probar su funcionamiento sin tantas complicaciones. Postman permite almacenar un espacio de trabajo y peticiones personalizadas para facilitar la tarea de probar APIs.
 
 ---
 
